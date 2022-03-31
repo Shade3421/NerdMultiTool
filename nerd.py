@@ -44,7 +44,7 @@ if nerdcheck == "n":
   makenerd()
 
 os.system('cls')
-os.system('title Nerd MultiTools - Main Menu')
+os.system('title Nerd MultiTool - Main Menu')
 
 buh = '''
 ███╗   ██╗███████╗██████╗ ██████╗ 
