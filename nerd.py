@@ -1,9 +1,6 @@
-import os
+import os, discord, webbrowser, shutil
+
 from colorama import Fore, init
-import discord
-import webbrowser
-import time
-import shutil
 center = shutil.get_terminal_size().columns
 
 init(autoreset=True)
